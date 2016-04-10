@@ -8,7 +8,6 @@
 namespace FilipBenco\yql;
 
 use yii\base\InvalidParamException;
-use yii\base\NotSupportedException;
 
 /**
  * QueryBuilder builds a SELECT SQL statement based on the specification given as a [[Query]] object.

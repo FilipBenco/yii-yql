@@ -4,7 +4,6 @@ namespace FilipBenco\yql;
 
 use yii\data\BaseDataProvider;
 use yii\base\InvalidConfigException;
-use app\components\yql\Connection;
 use yii\di\Instance;
 
 class YqlDataProvider extends BaseDataProvider {

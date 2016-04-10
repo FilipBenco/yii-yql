@@ -7,8 +7,6 @@
 
 namespace FilipBenco\yql;
 
-use yii\base\InvalidConfigException;
-
 /**
  * ActiveQuery represents a DB query associated with an Active Record class.
  *
