@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace app\components\yql;
+namespace FilipBenco\yql;
 
 /**
  * Exception represents an exception that is caused by some DB-related operations.

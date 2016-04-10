@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components\yql;
+namespace FilipBenco\yql;
 
 use Yii;
 use yii\base\Component;

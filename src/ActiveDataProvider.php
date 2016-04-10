@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace app\components\yql;
+namespace FilipBenco\yql;
 
 use yii\base\InvalidConfigException;
 use yii\base\Model;

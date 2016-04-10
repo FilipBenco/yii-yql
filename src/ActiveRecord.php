@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace app\components\yql;
+namespace FilipBenco\yql;
 
 use Yii;
 use yii\base\Model;
