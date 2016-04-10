@@ -65,7 +65,7 @@ class Connection extends Component
      * @see createCommand
      * @since 2.0.7
      */
-    public $commandClass = 'Command';
+    public $commandClass = 'FilipBenco\yql\Command';
    
     /**
      * @var array query cache parameters for the [[cache()]] calls
