@@ -1,0 +1,25 @@
+{
+    "name": "FilipBenco/yql",
+    "description": "YQL extension for Yii PHP Framework Version 2",
+    "keywords": [
+        "yii2",
+        "framework"
+    ],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Filip Benco",
+        },
+    ],
+    "support": {
+        "issues": "https://github.com/FilipBenco/yii-yql/issues?state=open",
+        "source": "https://github.com/FilipBenco/yii-yql"
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": ">=2.0.5"
+    },
+    "autoload": {
+        "psr-4": {"FilipBenco\\yql\\": "src"}
+    },
+}
